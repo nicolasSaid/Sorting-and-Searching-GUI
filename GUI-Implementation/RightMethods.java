@@ -1,0 +1,3 @@
+interface RightMethods {
+    int rightMethod();
+}
